@@ -1,0 +1,5 @@
+- This a database managment system project using bash script.
+- This project consists of three main script file: 
+    - name_validity: To check the validity of inputs from the DBMS's user.
+    - Databases_Level: This level allow the DBMS's user to Create_Database, Drop_Database, Connect_Database, List_Databases.
+    - Tables_level: This level allow the DBMS's user to Create_Table, Drop_Table, List_Tables, Select_Table, Insert_Table, Delete_Table, Update_Table, Return_to_Databases_level.
